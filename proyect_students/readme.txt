@@ -1,0 +1,1 @@
+The objective is to do a data analysis and be able to draw conclusions about the academic performance of a faculty.
